@@ -1,0 +1,7 @@
+{
+	"entity.bird.ambient": {
+		"sounds": [
+			"sbirds:bird_ambient"
+		]
+	}
+}
