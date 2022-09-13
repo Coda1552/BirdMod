@@ -1,0 +1,8 @@
+{
+	"entity.bird.ambient": {
+    	"subtitle": "entity.bird.ambient",
+		"sounds": [
+			"ambients:bird_ambient"
+		]
+	}
+}
