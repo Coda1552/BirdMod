@@ -1,7 +1,6 @@
 {
     "pack": {
-        "description": "sbirds resources",
-        "pack_format": 3,
-        "_comment": "Simple Birds Resources"
+        "description": "ambients resources",
+        "pack_format": 3
     }
 }
